@@ -6,7 +6,7 @@ elementType : 'element'
 standalone  : true
 
 title       : 'Button'
-description : 'A button indicates a possible user action'
+description : 'A button indicates a possible user action.'
 type        : 'UI Element'
 
 themes      : ['Default', 'Classic', 'Basic', 'Bootstrap3', 'Twitter', 'Raised', 'Chubby', 'Round', 'Amazon', 'Material', 'GitHub']
@@ -42,8 +42,8 @@ themes      : ['Default', 'Classic', 'Basic', 'Bootstrap3', 'Twitter', 'Raised',
 
   <div class="example" data-class="primary, secondary">
     <h4 class="ui header">Emphasis</h4>
-    <p>A button can be formatted to show different levels of emphasis</p>
-    <div class="ui ignored info message">Setting your brand colors to primary and secondary color variables in <a href="/usage/theming.html"><code>site.variables</code></a> will allow you to use your color theming for UI elements</div>
+    <p>A button can be formatted to show different levels of emphasis.</p>
+    <div class="ui ignored info message">Setting your brand colors to primary and secondary color variables in <a href="/usage/theming.html"><code>site.variables</code></a> will allow you to use your color theming for UI elements.</div>
     <button class="ui primary button">
       Save
     </button>
@@ -63,7 +63,7 @@ themes      : ['Default', 'Classic', 'Basic', 'Bootstrap3', 'Twitter', 'Raised',
   <div class="example" data-class="animated fade, animated">
     <h4 class="ui header">Animated</h4>
     <p>A button can animate to show hidden content</p>
-    <div class="ui ignored message">The button will be automatically sized according to the visible content size. Make sure there is enough room for the hidden content to show</div>
+    <div class="ui ignored message">The button will be automatically sized according to the visible content size. Make sure there is enough room for the hidden content to show.</div>
     <div class="ui animated button" tabindex="0">
       <div class="visible content">Next</div>
       <div class="hidden content">
@@ -154,7 +154,7 @@ themes      : ['Default', 'Classic', 'Basic', 'Bootstrap3', 'Twitter', 'Raised',
 
   <div class="example">
     <h4 class="ui header">Basic</h4>
-    <p>A basic button is less pronounced</p>
+    <p>A basic button is less pronounced.</p>
     <button class="ui basic button">
       <i class="icon user"></i>
       Add Friend
